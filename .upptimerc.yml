@@ -7,7 +7,9 @@ sites:
     url: https://www.iob.in
   - name: IOBNET
     url: https://www.iobnet.co.in
- 
+ on:
+  schedule:
+    - cron: '*/5 * * * *'  # every 5 minutes
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
