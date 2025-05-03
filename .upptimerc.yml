@@ -19,6 +19,7 @@ jobs:
       - name: Check site status
         run: |
           curl -Is https://www.iob.in | head -n 1
+          curl -Is https://www.iobnet.co.in | head -n 1
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
