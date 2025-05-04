@@ -22,19 +22,19 @@
     "url": "https://www.iobnet.co.in",
     "icon": "https://icons.duckduckgo.com/ip3/www.iobnet.co.in.ico",
     "slug": "iobnet",
-    "status": "down",
-    "uptime": "96.08%",
-    "uptimeDay": "91.71%",
-    "uptimeWeek": "96.08%",
-    "uptimeMonth": "96.08%",
-    "uptimeYear": "96.08%",
-    "time": 2153,
-    "timeDay": 2892,
-    "timeWeek": 2153,
-    "timeMonth": 2153,
-    "timeYear": 2153,
+    "status": "up",
+    "uptime": "95.79%",
+    "uptimeDay": "91.07%",
+    "uptimeWeek": "95.79%",
+    "uptimeMonth": "95.79%",
+    "uptimeYear": "95.79%",
+    "time": 2072,
+    "timeDay": 2486,
+    "timeWeek": 2072,
+    "timeMonth": 2072,
+    "timeYear": 2072,
     "dailyMinutesDown": {
-      "2025-05-04": 119
+      "2025-05-04": 128
     }
   }
 ]
