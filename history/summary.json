@@ -4,7 +4,7 @@
     "url": "https://www.iob.in",
     "icon": "https://icons.duckduckgo.com/ip3/www.iob.in.ico",
     "slug": "iob",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 2270,
     "timeYear": 2270,
     "dailyMinutesDown": {
+      "2025-05-22": 0,
       "2025-05-12": 22,
       "2025-05-07": 27
     }
@@ -26,18 +27,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.iobnet.co.in.ico",
     "slug": "iobnet",
     "status": "up",
-    "uptime": "98.74%",
-    "uptimeDay": "94.19%",
-    "uptimeWeek": "99.17%",
-    "uptimeMonth": "98.74%",
-    "uptimeYear": "98.74%",
+    "uptime": "98.79%",
+    "uptimeDay": "94.87%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "98.79%",
+    "uptimeYear": "98.79%",
     "time": 2425,
-    "timeDay": 3359,
+    "timeDay": 3668,
     "timeWeek": 2757,
     "timeMonth": 2425,
     "timeYear": 2425,
     "dailyMinutesDown": {
-      "2025-05-22": 84,
+      "2025-05-22": 74,
       "2025-05-13": 26,
       "2025-05-05": 128,
       "2025-05-04": 119
