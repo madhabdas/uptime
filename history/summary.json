@@ -31,7 +31,7 @@
     "url": "https://www.iobnet.co.in",
     "icon": "https://icons.duckduckgo.com/ip3/www.iobnet.co.in.ico",
     "slug": "iobnet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -43,6 +43,7 @@
     "timeMonth": 2905,
     "timeYear": 2594,
     "dailyMinutesDown": {
+      "2025-07-05": 0,
       "2025-05-22": 74,
       "2025-05-13": 26,
       "2025-05-05": 128,
